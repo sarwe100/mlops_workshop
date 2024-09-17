@@ -9,7 +9,7 @@ stages:
   displayName: 'Dev'
   jobs:
   - job: "Provision_Dev"
-    displayName: "Provision Dev resources 2024"
+    displayName: "Provision Dev resources 204"
     pool:
       vmImage: 'ubuntu-latest'
     timeoutInMinutes: 0
